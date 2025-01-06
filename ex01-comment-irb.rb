@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 # This is a comment, as a note that Ruby interpreter will skip this line(s).
 
 # In this chapter, please explore the IRB (Interactive Ruby) shell and try out some arithmetic calculations.

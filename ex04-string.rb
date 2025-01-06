@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 # เริ่มจาก สิ่งที่รู้อยู่แล้ว หรือกลับไปทวน ex02
 # method ใดๆ ต่อไป ให้ใช้ (...) และใส่ argument ในวงเล็บ
 puts('Hello ' + ' ' + 'World')
